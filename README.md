@@ -30,6 +30,7 @@ INLOP10 10 is the number of loop
 
 "OUTLOP" loop to INLOP point
 
+example
 
 WAITM5000   wait 5secs
 STARTM      start position and pause movie
