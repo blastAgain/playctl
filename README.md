@@ -2,6 +2,8 @@ playctl
 ================
 
 companion program for multimovie player<br>
+used openframeworks and used ofxNetwork<br>
+<br>
 send command to multiple multimovieplayer client over multicast<br>
 originally java program made in 2004 and it is compatible<br>
 use thread<br>
